@@ -1,0 +1,236 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- ©2011 by NeverMore -->
+
+<list maintainEnchantment="true">
+
+  <!-- Spirit Ore -->
+  <item id="1">
+    <ingredient id="57" count="1000000"/>
+    <production id="3031" count="1000"/>
+  </item>
+
+  <!-- Soul Ore -->
+  <item id="2">
+    <ingredient id="57" count="1000000"/>
+    <production id="1785" count="1000"/>
+  </item>
+
+  <!-- Battle Symbol -->
+  <item id="3">
+    <ingredient id="57" count="1000000"/>
+    <production id="8875" count="100"/>
+  </item>
+
+  <!-- Magic Symbol -->
+  <item id="4">
+    <ingredient id="57" count="1000000"/>
+    <production id="8876" count="100"/>
+  </item>
+
+  <!-- Phoenix Blood -->
+  <item id="5">
+    <ingredient id="57" count="1000000"/>
+    <production id="8873" count="100"/>
+  </item>
+
+  <!-- Einhasad's Holy Water -->
+  <item id="6">
+    <ingredient id="57" count="1000000"/>
+    <production id="8874" count="100"/>
+  </item>
+
+  <!-- Cursed Bone -->
+  <item id="7">
+    <ingredient id="57" count="1000000"/>
+    <production id="2508" count="1000"/>
+  </item>
+
+  <!-- Silver Arrow -->
+  <item id="10">
+    <ingredient id="57" count="1000000"/>
+    <production id="1343" count="1000"/>
+  </item>
+
+  <!-- Mithril Arrow -->
+  <item id="11">
+    <ingredient id="57" count="1000000"/>
+    <production id="1344" count="1000"/>
+  </item>
+
+  <!-- Shining Arrow -->
+  <item id="12">
+    <ingredient id="57" count="1000000"/>
+    <production id="1345" count="1000"/>
+  </item>
+
+  <!-- Energy Stone -->
+  <item id="19">
+    <ingredient id="57" count="1000000"/>
+    <production id="5589" count="1000"/>
+  </item>
+
+  <!-- Crystal: S Grade -->
+  <item id="20">
+    <ingredient id="57" count="10000000"/>
+    <production id="1462" count="100"/>
+  </item>
+
+  <!-- Crystal: A-Grade -->
+  <item id="21">
+    <ingredient id="57" count="5000000"/>
+    <production id="1461" count="100"/>
+  </item>
+
+  <!-- Crystal: B-Grade -->
+  <item id="22">
+    <ingredient id="57" count="2000000"/>
+    <production id="1460" count="100"/>
+  </item>
+
+  <!-- Crystal: C-Grade -->
+  <item id="23">
+    <ingredient id="57" count="1000000"/>
+    <production id="1459" count="100"/>
+  </item>
+
+  <!-- Crystal: D-Grade -->
+  <item id="24">
+    <ingredient id="57" count="500000"/>
+    <production id="1458" count="100"/>
+  </item>
+
+ <!-- Soulshot: D-grade -->
+  <item id="25">
+    <ingredient id="57" count="110000"/>
+    <production id="1463" count="1000"/>
+  </item> 
+
+ <!-- Soulshot: C-grade -->
+  <item id="26">
+    <ingredient id="57" count="170000"/>
+    <production id="1464" count="1000"/>
+  </item>
+
+  <!-- Soulshot: B-grade -->
+  <item id="27">
+    <ingredient id="57" count="500000"/>
+    <production id="1465" count="1000"/>
+  </item>
+
+  <!-- Soulshot: A-grade -->
+  <item id="28">
+    <ingredient id="57" count="800000"/>
+    <production id="1466" count="1000"/>
+  </item>
+
+  <!-- Soulshot: S-grade -->
+  <item id="29">
+    <ingredient id="57" count="1000000"/>
+    <production id="1467" count="1000"/>
+  </item>
+ 
+ <!-- Blessed Spiritshot: D Grade -->
+  <item id="30">
+    <ingredient id="57" count="220000"/>
+    <production id="3948" count="1000"/>
+  </item>
+
+ <!-- Blessed Spiritshot: C Grade -->
+  <item id="31">
+    <ingredient id="57" count="320000"/>
+    <production id="3949" count="1000"/>
+  </item>
+
+<!-- Blessed Spiritshot: B-Grade -->
+  <item id="32">
+    <ingredient id="57" count="2000000"/>
+    <production id="3950" count="1000"/>
+  </item>
+
+  <!-- Blessed Spiritshot: A-Grade -->
+  <item id="33">
+    <ingredient id="57" count="2200000"/>
+    <production id="3951" count="1000"/>
+  </item>
+
+<!-- Blessed Spiritshot: S Grade -->
+  <item id="34">
+    <ingredient id="57" count="2800000"/>
+    <production id="3952" count="1000"/>
+  </item>
+
+ <!-- Mana Potion -->
+  <item id="46">
+    <ingredient id="57" count="15000"/>
+    <production id="728" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="47">
+    <ingredient id="57" count="10000"/>
+    <production id="1539" count="1"/>
+  </item>
+
+ <!-- Dualsword Craft Stamp -->
+ <item id="47">
+   <ingredient id="57" count="100000"/>
+   <production id="5126" count="1"/>
+  </item>
+
+<!-- Dimensional Diamond -->
+ <item id="48">
+   <ingredient id="57" count="100000"/>
+   <production id="7562" count="10"/>
+  </item>
+
+<!-- Recovery A -->
+ <item id="49">
+   <ingredient id="57" count="65000"/>
+   <production id="8598" count="1"/>
+  </item>
+
+<!-- Recovery S -->
+ <item id="50">
+   <ingredient id="57" count="110000"/>
+   <production id="8599" count="1"/>
+  </item>
+
+<!-- Scroll of Escape: Clan Hall -->
+ <item id="51">
+   <ingredient id="57" count="6000"/>
+   <production id="1829" count="10"/>
+  </item>
+
+<!-- Scroll of Escape: Castle -->
+ <item id="52">
+   <ingredient id="57" count="6000"/>
+   <production id="1830" count="10"/>
+  </item>
+
+<!-- Scroll of Escape -->
+ <item id="53">
+   <ingredient id="57" count="5000"/>
+   <production id="736" count="10"/>
+  </item>
+
+<!-- Gemstone C -->
+ <item id="52">
+   <ingredient id="57" count="3500"/>
+   <production id="2131" count="1"/>
+  </item>
+
+<!-- Gemstone B -->
+ <item id="53">
+   <ingredient id="57" count="11000"/>
+   <production id="2132" count="1"/>
+  </item>
+
+<!-- Elixir of CP (S-Grade) -->
+ <item id="54">
+   <ingredient id="57" count="90000"/>
+   <production id="8639" count="10"/>
+  </item>
+
+</list>
