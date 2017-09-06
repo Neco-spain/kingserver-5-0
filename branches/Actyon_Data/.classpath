@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="dist/game/data/scripts"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Actyon_Core"/>
+	<classpathentry kind="lib" path="E:/workspace_MaGa/Actyon_Core/dist/libs/mmocore.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_MaGa/Actyon_Core/dist/libs/slf4j-api-1.7.23.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_MaGa/Actyon_Core/dist/libs/ZeuSNPC.jar" sourcepath="/Actyon_Core/dist/libs/ZeuSNPC.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

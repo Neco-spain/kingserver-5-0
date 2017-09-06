@@ -1,0 +1,264 @@
+package ZeuS.Config;
+
+
+public final class msg {
+
+	public static final String CONFIG_ONLY_NOBLES = "Noble can use it only";
+	public static final String CONFIG_MIN_LVL_CAN_USE = "Minimum level to be used";
+	public static final String CONFIG_EXPLICA_MIN_LVL_CAN_USE = "Enter from which level can be used";
+	public static final String CONFIG_COST_FOR ="Enter the price for";
+	public static final String CONFIG_COST = "Enter the cost to use this service";
+	public static final String CONFIG_QUANTITY_FOR = "Enter the quantity for number";
+	public static final String CONFIG_ONLY_NUMBER = "Enter numbers only";
+	public static final String CONFIG_ADD_MENSAJE_POSITION = "Enter Message for the Position";
+
+	public static String NECESITAS_SER_NOBLE = "Necesitas ser Noble";
+	public static String NECESITAS_SER_NOBLE_PARA_ESTA_OPERACION = "Necesitas ser Noble para ésta operación";
+	public static String NECESITAS_TENER_UN_LEVEL_MAYOR_A_$level = "Necesitas tener un level mayor a $level";
+	public static String NECESITAS_SER_LVL_$level_PARA_ESTA_OPERACION = "Necesitas ser level $level para ésta operación";
+	public static String NECESITAS_TENER_UN_LEVEL_DE_CLAN_IGUAL_O_SUPERIOR_A_$level = "Necesitas tener un level de clan igual o superior a $level";
+	public static String NECESITAS_ESTAR_EN_PARTY = "Necesitas estar en party";
+	public static String NO_TIENES_LOS_ITEM_NECESARIOS_PARA_ESTA_OPERACION = "No tienes los Item Necesarios para ésta operación";
+	public static String NO_PUEDES_VOTAR_EN_ESTE_MOMENTO = "No puedes votar en éste momento";
+	public static String TU_VOTO_NO_FUE_CURSADO = "Tu voto no fue Cursado con exito";
+	public static String USTED_NO_PUEDE_INGRESAR_A_ESTA_SECCION = "Usted no puede Ingresar a ésta sección";
+	public static String DEBES_INGREGAR_LOS_DATOS_SOLICITADOS = "Debes ingresar los Datos Solicitados";
+	public static String INGRESE_SOLO_NUMEROS = "Ingrese solo números";
+	public static String NO_DEJE_CAMPOS_VACIOS = "No deje campos Vacios";
+	public static String EL_NOMBRE_YA_EXISTS_COMO_AIO = "El nombre ya existe como AIO";
+	public static String ESTE_PROCESO_PUEDE_DEMORAR_UNOS_SEGUNDOS = "Este Proceso puede demorar unos Segundos.";
+	public static String LA_CREACION_DEL_AIO_HA_COMENZADO = "La creación del aio ha Comenzado";
+	public static String AIO_CREADO_CON_EXITO = "La creación del AIO termino sin Problemas";
+	public static String SOLO_LIDER_DE_CLAN_PUEDE_REALIZAR_ESTA_OPERACION = "Solo el lider de clan puede realizar ésta operación";
+	public static String NO_PUEDES_USAR_MIS_SERVICIOS_ESTANDO_FLAG = "No puedes usar mis servicios estando flag";
+	public static String NO_PUEDES_USAR_MIS_SERVICIOS_ESTANDO_PK = "No puedes usar mis servicios estando con Karma";
+	public static String NO_PUEDES_USAR_MIS_SERVICIOS_ESTANDO_MUERTO = "No puedes usar mis servicios estando Muerto";
+	public static String BTN_ACTIVAR = "ACTIVAR";
+	public static String BTN_DESACTIVAR = "DESACTIVAR";
+	public static String USTED_YA_ES_NOBLE_NO_PUEDE_CONTINUAR = "Usted ya es noble, no puede continuar";
+	public static String USTED_YA_ES_85_NO_PUEDE_CONTINUAR = "Usted ya es 85, no puede continuar";
+	public static String NOMBRE_INGRESADO_NO_ES_VALIDO = "Nombre Ingresado no es Valido";
+	public static String CAMBIO_DE_NOMBRE_EXITOSO = "Cambio de nombre exitoso";
+	public static String ERROR_EN_ESTE_PROCESO = "Error en este Proceso";
+	public static String ERROR_TIPEO = "Error de Tipeo. Ingrese los Datos Solicitados<br1>Correctamente.<br>Operación Cancelada. Vuelva a intentar";
+	public static String MENSAJE_BIENVENIDA ="Bienvenido Viajero";
+	public static String PROCESO_DE_ELIMINACION_DE_CLAN_CANCELADA = "Proceso de Eliminación de clan Cancelada";
+	public static String INGRESE_NOMBRE_DEL_MIEMBRO_A_POSEER_EL_CLAN = "Debe ingresar el Nombre del miembro de clan para traspasar liderazgo del Clan";
+	public static String NO_HAY_SKILL_PARA_APRENDER = "No tienes nuevas skill para aprender";
+	public static String DEBE_INRGESAR_EL_NOMBRE_DE_LA_ALIANZA = "Debe ingresar el Nombre de la Alianza";
+	public static String NO_TIENES_CLAN = "Usted no posee clan";
+	public static String ENVIANDO_COMPROBANTE_AL_ADMIN  = "Enviando comprobante al Administrador";
+	public static String ENVIANDO_COMPROBANTE_OK = "Comprobante enviado con exito";
+	public static String NOMBRE_INCORRECTO = "Wrong Name";
+	public static String DESAFIO_GANO = "Felicidades, has ganado premio en el Desafio.";
+	public static String DESAFIO_PERDIO = "Lo sentimos, perdiste el Desafio.";
+	public static String ITEM_ID_NO_ENCONTRADO = "Lo sentimos, el id del Item no fue encontrado.";
+	public static String EL_TARGET_NO_ES_PLAYER = "Tu target no es un player";
+	public static String EL_PLAYER_$player_ES_NOBLE = "El player $player es noble";
+	public static String EL_PLAYER_$player_YA_NO_ES_NOBLE = "El player $player ya no es noble";
+	public static String TU_ERES_NOBLE = "Ya eres Noble";
+	public static String TU_NO_ERES_NOBLE = "Ya no eres Noble";
+	public static String GM_RESET_PIN = "El gm reseteo tu pin a 9876";
+	public static String BOTON_ATRAS = "Back";
+	public static String BOTON_SIGUENTE = "Next";
+	public static String QUE_ES_AIO_BUFFER = "Un Buffer AIO es una Personaje de Cualquier<br1>Raza y sexo, que es convertido en un Buffer,<br1>con casi el 90% de los Buff existentes<br1>(No incluyebuff de Hero).";
+	public static String REQUERIMIENTOS_BUFFER = "<font color=298A08>Requerimientos</font><br1>1.- Personaje lvl 85 con la 3º Prefión Cursada<br1>2.- Usar Nombres con menos de 12 letras<br1>3.-Los AIOS no deben Levear a otros Char, pero<br1>si se Puede Levear a un AIO para Obtener<br1>EXP y SP para Encantar sus Skill<br1>4.- Recuerda leer las Reglas para No Banear<br1>INDEFINIDAMENTE a un AIO.";
+	public static String BUG_REPORT_MENSAJE_$player = "Muchas Gracias $player!<br1>Un gm se tratará de Comunicár<br1>contigo Vía Email";
+	public static String BUG_REPORT_LISTA_REPORTES = "General;Fatal;Char;Balance;Otros;Donacion";
+	public static String BUG_REPORT_MENSAJE_INICIAL = "Si encuentras un Bug, Error<br1> en el juego u otra petición <br1>y no hay GM Online,<br1> puedes hacerlas mediante este Método";
+	public static String CHALLENGE_EL_$player_YA_ES_85_POSICION_$posi_DE_$total = "El player $player ya es 85 con la posicion $posi de $total";
+	public static String CHALLENGE_EL_$player_YA_ES_NOBLE_POSICION_$posi_DE_$total = "El player $player ya es Noble con la posicion $posi de $total";
+	public static String CHALLENGE_MENSAJE_85_$total85 = "<font color= 6E6E6E>Premio a los primeros</font> <font color=\"LEVEL\">$total85</font><font color= 6E6E6E> en llegar a lvl 85.</font>";
+	public static String CHALLENGE_MENSAJE_NOBLE_$totalnoble = "<font color= 6E6E6E>Premio a los primeros</font> <font color=\"LEVEL\">$totalnoble</font><font color= 6E6E6E> en ser Nobles.</font>";
+	public static String CHALLENGE_MENSAJE_NPC_ESCONDIDOS_$total = "<font color= 6E6E6E>Quien encuentre a uno de los </font> <font color=\"LEVEL\">$total</font><font color= 6E6E6E> NPC<br1>Escondidos, obtendran premios de Forma<br1> Aleatorio. Un Npc escondido y su Premio<br1>no se repetiran</font><br>";
+	public static String CHALLENGE_MENSAJE_NPC_HIDDEN = "NPC Correspondiente al Evento Busqueda.<br1>Si un NPC es Encontrado y Solicitado el<br1>Premio, este NPC quedara Bloqueado para <br1>la Proxima persona que lo encuentre y<br1>el Char que lo encontro quedara bloqueado<br1>para solicitar el Premio de otro NPC no <br1>encontrado. Los Premios son unicos no se<br1>repetiran.";
+	public static String CHALLENGE_MENSAJE_NPC_HIDDEN_GANADOR = "Felicidades!! Has Ganado";
+	public static String CHALLENGE_MENSAJE_NPC_HIDDEN_ANNOUCEMENT_$player = "Desafío Busqueda $player ha encontrado un NPC del desafio Busqueda, premios otorgados:";
+	public static String CHALLENGE_MENSAJE_NPC_HIDDEN_ENCONTRADO_NPC_$player = "Lo sentimos amigo<br1>pero este NPC ya fue<br1>encontrado por $player";
+	public static String CHALLENGE_MENSAJE_NPC_HIDDEN_ENCONTRADO_PLAYER = "Lo sentimos amigo<br1>pero tu ya encontraste uno<br1>de los NPC.";
+	public static String CHALLENGE_MENSAJE_NPC_HIDDEN_ENCONTRADO_REWARD_IT = "Felicidades!! has encontrado<br1>un npc del Desafio Busqueda<br1>";
+	public static String CLAN_MENSAJE_INCREMENTAR = "Para subir el level del clan<br1>necesitaras los siguentes item";
+	public static String CLAN_MENSAJE_ELIMINAR = "Si tu aceptas el clan,<br1>será eliminado";
+	public static String CLAN_MENSAJE_RESTORE = "Si solicita una restauración <br1> se cancelará su solicitud de disolución del clan.";
+	public static String CLAN_CHANGE_CLAN_LEADER = "Ingresa el nombre del miembro<br1>del clan para continuar.";
+	public static String CLAN_NOMBRE_CLAN_CREAR = "Ingrese el nombre del Clan a crear";
+	public static String CLAN_CREAR_ALIANZA = "Ingrese el nombre de la Alianza";
+	public static String CLAN_NAME_$name_YA_EXISTE = "El nombre de clan $name ya existe";
+	public static String CLAN_NAME_CAMBIADO_CORRECTO_A_$name = "El nombre del clan se ha cambiado correctamente a $name";
+	public static String CLASS_MASTER_FELICIDADES_$profesion = "Has completado una transferencia de clase<br1><font color=LEVEL>$profesion</font>";
+	public static String CLASS_MASTER_MENSAJE_ELECCION = "Evalua tu Clase, Cual vas a Escoger?";
+	public static String COLOR_MANAGER_MENSAJE = "<font color=\"FFFFFF\">Este es el Lugar Perfecto para Darla Color<br1>Temporal a tu Nombre.<br1> Los colores solo Durán hasta que te salgas del<br1>Juego.</font><br1>";
+	public static String DELEVEL_MANAGER_MENSAJE_HASTA_$level = "<font color=\"FFFFFF\">Si tu quieres disminuir tu level estás en el<br1>sitio correcto. Solo puedes llegar<br1>hasta <font color=LEVEL>lvl $level</font></font><br1>";
+	public static String DROP_SEARCH_MENSAJE_ESPACIO = "<font color=DF3A01>Los Espacios deben ser Sustituidos <br1> por <font color=LEVEL> _ </font></font>";
+	public static String DROP_SEARCH_MENSAJE = "Ingrese el Nombre o ID <br1>del Drop a Buscar<br1>";
+	public static String FLAG_FINDER_MENSAJE = "Si quieres localizar a una Persona flag, esta es<br1>tu oportunidad. Nosotros te llevaremos a una<br1>persona Flag (Si es que hay alguna) de<br1>forma Aleatoria";
+	public static String FLAG_FINDER_BTN_MENSAJE = "Vamos!, Llevame a alguien para Matar!";
+	public static String FLAG_FINDER_MENSAJE_NO_PVP = "Lo sentimos, no hay nadie con estado PVP o PK";
+	public static String FLAG_FINDER_ENCONTRADO_$player = "Tu Oponente es $player";
+	public static String FLAG_FINDER_VIENEN_POR_TI_$player = "Cuidado el player $player viene por tí!";
+	public static String CONFIG_PANEL_ANUN_ENRADA = "Anuncia tu Ingreso al Server";
+	public static String CONFIG_PANEL_EFECTOS_TOP_PVPPK = "Efectos Gráficos top pvp/pk";
+	public static String CONFIG_PANEL_STAT = "Info de tus Stat's pública";
+	public static String CONFIG_PANEL_EXPICA_STAT = "Configuración Show my Stat. Los demás<br1>Player podrán ver tu Stat's e Item's puestos<br1>Use sobre target comando .stat";
+	public static String CONFIG_PANEL_EXPLICA_PIN = "Solicitud de PIN Privado al Ingresar al Game.<br1>Pin Default: 9876";
+	public static String LOGPVP_MENSAJE = "Podras ver las Peleas Ganadas y Derrotas de un<br1>char, solo deberás Ingresar el Nombre del PJ<br1>a Revisar";
+	public static String LOGPVP_INGRESE_NOMBRE_O_PARCIAL = "Ingrese el nombre o un parcial del Char";
+	public static String PARTY_FINDER_MENSAJE_CENTRAL = "Si quieres que te lleve a tu Lider de party<br1>deberás Cancelar un Alto Precio";
+	public static String PARTY_FINDER_NO_PARTY_LEADER_DEATH = "No puede usar mis servicios mientras tu lider de party esté muerto";
+	public static String PARTY_FINDER_NO_PARTY_LEADER_FLAG = "No puede usar mis servicios mientras tu lider de party esté flag";
+	public static String PARTY_FINDER_NO_PARTY_LEADER_NOBLE = "No puede usar mis servicios mientras tu lider de party no sea Noble";
+	public static String PARTY_FINDER_NO_PARTY_LEADER_ISIN_INSTANCE = "No puede usar mis servicios mientras tu lider de party esté en Instancia";
+	public static String PARTY_FINDER_NO_PARTY_LEADER_NO_SUMMON_ZONE = "No puede usar mis servicios mientras tu lider esté en un area de no summon";
+	public static String PIN_ONLY_NUMERIC = "Su PIN actual debe Ser númerico";
+	public static String PIN_LENGTH_4 = "Su PIN Actual debe tener un largo de 4 Digitos";
+	public static String PIN_NO_COINCIDEN = "Los nuevos PIN ingresados no coinciden";
+	public static String AUGMENT_SPECIAL_REMOVE_AUGMENT = "El Arma seleccionada está aumentada. Debe quitar el Aumento para Proceguir";
+	public static String VOTEREWARD_REMEMBER_VOTE_12 = "Recuerda que solo puede votar cada 12 horas";
+	public static String VOTEREWARD_MENSAJE = "Por cada Voto válido en alguna de las páginas<br1>de votación recibirás una Recompensa";
+	public static String VOTEREWARD_AGOTASTE_EL_TIEMPO_$time = "Lo sentimos, pero agoste el tiempo de espera de $time";
+	public static String VOTEREWARD_MENSAJE_ESPERAR = "Espera un momento, estamos validando tu Voto...";
+	public static String VOTEREWARD_MENSAJE_ERROR = "Tu voto no fue contabilizado. No ingresaste el voto.";
+	public static String VOTOREWARD_MENSAJE_ENGAÑO = "El sistema encontró problemas de Seguridad. Tal vez quisiste engañarnos por el cual tu Voto no fue Contabilizado.";
+	public static String VOTOREWARD_ESPERE_UN_MOMENTO_OBTENIENDO_INFO_$pagina = "Espere un momento, estamos obteniendo información de $pagina";
+	public static String VOTOREWARD_TENEMOS_$votos_EN_$pagina_VOTA_AHORA_MENSAJE = "Tenemos <font color \"LEVEL\">$votos</font> Votos en $pagina.<br1>Vota en este momento,<br1>si tu voto es valido, tendras<br1>que precionar<br1><font color = \"FF8A02\">\"I voted, check it\"</font><br1>para ver validar tu Voto.<br1>";
+	public static String EL_PLAYER_$player_NO_ES_NOBLE = "El player $player no es noble.";
+	public static String TU_ESTÁS_BANEADO_DE_LAS_OLYES = "You are Olympiad banned";
+
+	public static final String EL_NOMBRE_ES_MUY_LARGO_PARA_EL_AIO_MAXIMOS_CARACTERES_$maximo = "El nombre es muy largo para el Nomber del AIO, el Máximo es $maximo";
+
+	public static String TU_NO_PUEDES_CAMBIARTE_EL_TITULO_EN_ESTE_MOMENTO = "Can not change your the title in this moment";
+	public static String BOT_VERIFICATION_SEND_TO_$player = "Bot verification sent to player $player";
+	public static String THE_SELECT_OBJECT_IS_NOT_A_PLAYER = "The selected object is not a Player";
+	public static String BOT_CAN_NOT_SEND_IN_OLY = "You can not send the bot verification on olympiad";
+	public static String BOT_CAN_NOT_SEND_IN_YOUR_SELF = "You can not send the bot verification on yourself";
+	public static String BOT_RECENTLY_BEEN_SENT_TO_THIS_PLAYER_VERIFICATION_EVERY_$timeEvery_NEXT_CHECK_IN_$timeNextCheck = "Recently been sent Antibot check to this Player. The verifications are every $timeEvery minutes. Next check can be sent in $timeNextCheck (MM:SS)";
+	public static String BOT_THIS_COMMAND_ONLY_NOBLE = "This command is Noble Only";
+	public static String BOT_THIS_COMMAND_ONLY_HERO = "This command is Hero Only";
+	public static String BOT_COMMAND_IS_ONLY_FOR_PLAYER_WHITH_$level = "This command is only for players with a level greater than $level";
+	public static String BOT_COMMAND_IS_ONLY_WITH_LIFETIME_OVER_$lifetime = "This command only works if you have a life longer than $lifetime";
+	public static String BOT_THIS_PLAYER_ARE_KILLING_A_RAID_BOSS = "The selected player are killing a raid boss, can not send the bot verification";
+	public static String BOT_THIS_PLAYER_HAVE_KARMA = "The selected player have Karma, can not send the bot verification";
+	public static String BOT_SYSTEM_SEND_TO_JAIL_FOR_$time_MINUTES_FOR_LOGOUT = "Bot verification sent to jail to $time for disconnecting";
+	public static String BOT_THE_PLAYER_IS_NOT_A_BOT = "You are not a bot, continue";
+	public static String BOT_$player_HAVE_SENT_YOU_A_ANTIBOT_VERIFICATION = "$player have sent you a boot verification";
+	public static String BOT_YOU_HAVE_BEEN_SEND_TO_JAIL_FOR_NOT_ENTER_THE_RIGHT_PASS_INTIME_$time = "You have been sent to jail for not entering the correct answer or pass over $time minutes waiting";
+	public static String BOT_ANNOUCEMENT_WHEN_$player_IS_SEND_TO_JAIL_FOR_$time_MINUTER = "Player $player was sent to jail by the antibot System for $time minutes.";
+	public static String BOT_ANNOUCEMENT_REMOVE_ITEM = "Rewards Removed.";
+
+	public static String DRESSME_ONLY_NUMERIC_TO_SHOW_DRESSME = "You just have to input numbers to select dressme";
+	public static String DRESSME_ONLY_HAVE_$maximo_TO_CHOOSE = "You can only select $maximo dressme";
+	public static String DRESSME_CHOOSE_WRONG = "The dressme ID does not exist or you do not have active any dressme";
+	public static String DRESSME_DISABLED = "The dressme command are disabled by GM";
+	public static String DRESSME_YOU_DONT_HAVE_DRESSME_CONFIG = "You do not have any configuration dress";
+	public static String DRESSME_HOW_TO_USED_$dressmeSave_$dressmeChoose_$dressme_$dressmeCopy = "About ZeuS Dressme Command<br1>To use the command dress, you must enter you the next command<br>Save you clothes: you must write $dressmeSave and ID for this Dressme. Ej: $dressmeSave 1<br>"+
+																																					"Choose Another Dressme: You must write $dressme_choose and id of you select Dressme. Ej:$dressme_choose 1<br>"+
+																																					"Show Dressme Windows: You must Write $dressme.<br1>"+
+																																					"Enabled/Disabled For another player Copy your clothes or dressme: You must write $dressme_share<br1>" +
+																																					"Copy another dressme: $dressme_target<br1>" +
+																																					"Disabled you Dressme: You must Write $dressmeChoose 0<br1>";
+	public static String DRESSME_THE_COST_FOR_NEW_DRESSME = "The cost to add a new dressme";
+	public static String DRESSME_YOU_NEED_TO_HAVE_ANY_DRESSME_ADDED = "You need to have a Dressme setting save<br1>for this action";
+	public static String DRESSME_YOU_NEED_TO_PUT_ON_A_DRESSME = "You need to put on a dressme to use this command";
+	public static String CANCEL_BUFF_RETURNED_IN_$timeSeconds = "Cancelled Buff will return in $TIME Seconds";
+	public static String CANCEL_BUFF_YOUR_CANCEL_BUFF_HAVE_RETURNED = "Cancel buff have returned";
+	public static String YOU_CAN_NOT_TRADE_WHILE_FLAG = "You can not trade while you/target are Flag";
+	public static String YOU_CAN_NOT_TRADE_WHILE_PK = "You can not trade while you/target are PK";
+	public static String TELEPORT_YOU_CAN_NOT_USE_THE_TELEPORT_IN_COMBAT_MODE = "You can't use the teleport in combat mode";
+	public static String BUFFVOICE_YOU_CANNOT_USE_ME_IN_COMBAT_MODE = "You can not use my service on combat mode";
+	public static String BUFFVOICE_YOU_CANNOT_USE_ME_IN_SIEGE_AND_TW = "You can not use my service on siegue / territory war";
+	public static String BUFFVOICE_YOU_DONT_HAVE_THE_DONATION_ITEM_TO_USE_THIS_BUFF= "You dont have the necesary item to use ths buff";
+	public static String BUFFVOICE_YOU_CANNOT_USE_ME_IN_EVENT = "You can not use me on event";
+	public static String HELP_ZEUS_BUFFER = "Write .zeus_buffer to show the buffer windows and buff you self or summon.";
+	public static String HELP_EXPONOFF = "Write .exp_on to get exp and .exp_off to dont get it.";
+	public static String HELP_DRESSME = "Write .dressme to show dressme windows.";
+	public static String HELP_CHECKBOT = "Write .checkbot with target to send check bot windows to the target";
+	public static String HELP_STAT = "Write .stat with target to see his/her stat if the target wants.";
+	public static final String HELP_ADMIN_CONFIG ="Show Config ZeuS Engine Windows";
+	public static final String HELP_ADMIN_TELE ="Show Config Teleport Windows";
+	public static final String HELP_ADMIN_SHOP ="Show Config Shop Windows";
+	public static final String HELP_ADMIN_OLY_BAN_UNBAN ="Ban/Unban the target player.<br1>//oly_ban test, //oly_unban test";
+	public static final String HELP_ADMIN_RESET_POINT ="Reset to 0 all Olympiad point from Target/Name.<br1>//oly_point test";
+	public static final String HELP_ADMIN_POINT = "Add or remove Point from target. Use positive number to add and negative number to remove.<br1>//oly_point 2, //oly_point -2";
+	public static final String HELP_ADMIN_IPBLOCK ="Show IPBlock windows.";
+	public static final String HELP_ADMIN_BANIP = "Ban the target IP/LAN.";
+	public static final String HELP_ADMIN_BOTZONE = "Send a antibot Windows to all players inside a zone that you're";
+	public static final String HELP_ADMIN_RECALL ="Recall all player to you position.";
+	public static final String HELP_ADMIN_BUFF_VOICE ="Show Config Buffer Voice Windows";
+	public static final String HELP_ADMIN_CANCEL_ANTIBOT = "Remove antibot windows from target/name. //zeus_bot_cancel tester";
+	public static final String MAXIMUM_ALLOWD_IP_ARE_$countAllow_CHAR_$player_ARE_DISCONNECTED = "Maximum allowed IP are $countAllow. Char $player gonna to be disconnected.";
+	//public static String DONACION_DOCUMENT = "";
+	public static String BOT_INACTIVE_X_THAN_$minutes = "The user is inactive for over than $minutes minutes";
+
+
+
+	public static String DRESSME_PART_FROM_YOU_TARGET_IS_NOW_ADDED_TO_YOU_DRESSME = "The dressme part from your target is now added to you dressme.";
+	public static String DRESSME_TARGET_SAVE_IT_INTO_DRESSME_ID_$id = "Dressme target save it into Dressme ID $id";
+	public static String DRESSME_TARGET_COMMAND_IS_DISABLED_BY_GM = "Dressme target command is disabled by GM";
+	public static String DRESSME_TARGET_THE_TARGET_PLAYER_$targetName_NOT_SHARE_THEY_DRESSME = "The target player $targetName, does not share their dressme";
+	public static String DRESSME_TARGET_THE_PLAYER_$name_WANTS_YOU_DRESSME = "The player $name wants your dressme or actual clothes";
+	public static String OLY_YOU_HAVE_BEEN_UNBANNED_FROM_OLY_BY_$gmName = "You Have been unbanned from the Olympics by $gmName";
+	public static String OLY_YOU_HAVE_BEEN_BANNED_FROM_OLY_BY_$gmName = "You Have been banned from the Olympics by $gmName";
+	public static String BUFFERCHAR_YOU_DONT_HAVE_DONATION_COIN = "You dont have Donation Item for use this buff";
+	public static String BUFFERCHAR_LENGTH_OF_THE_NAME_MUST_BE_LESS_THAN_$size = "Length of the name must be less than $size";
+	public static String BUFFERCHAR_NAME_ALREADY_EXISTS_IN_YOU_SCHEMES = "name already exists in your schemes";
+	public static String BUFFERCHAR_SCHEME_NAME_SAVED = "Scheme Name Saved";
+	public static String BUFFERCHAR_YOU_CAN_NOT_BUFF_YOU_PET = "You can not buff your pet";
+	public static String BUFFERCHAR_YOU_CAN_NOT_HEAL_YOU_PET = "You can not heal your pet";
+	public static String BUFFERCHAR_YOU_CAN_NOT_CANCEL_YOU_PET_BUFF = "You can not cancel your pet buff";
+	public static String BUFFERCHAR_WROG_SCHEME_NAME = "Worg scheme name";
+	public static String BUFFERCHAR_YOU_NOT_HAVE_PET = "You not have a pet";
+	public static String PARTY_FINDER_YOU_HAVE_BEEN_SENT_TO_YOUR_PARTY_LEADER = "You have been sent to your party leader";
+	public static String PARTY_FINDER_THE_PLAYER_$name_HAS_MOVE_TO_YOU_POSITION = "The player $name has move to you position";
+	public static String TELEPORT_THIS_AREA_DOES_NOT_ALLOW_DUAL_BOX = "This area does not allow dual box's";
+	public static String EL_PLAYER_$player_ES_HERO = "The payer $player is Hero";
+	public static String DONATION_YOU_HAVE_$donationCount_ON_YOU_ACCOUNT = "You have $donationCount DC on you account";
+	public static String DONATION_GIVE_DC_BUTTON = "Give me my DC";
+	public static String DELEVEL_REMOVE_INVALID_SKILL_$nameskill_$idlevel_$classname = "Remove invalid Skill, $nameskill level $idlevel from $classname class";
+	public static String CHARPANEL_PANEL_TO_SET_VARIOUS_SETTING_FOR_YOUR_CHARACTER = "Panel to set various settings for your character! Have in mind that settings are stored after restart and log out.";
+	public static String FIXME_SELECT_THE_CHAR_HOW_NEED_TO_BE_FIX_IT = "Please select the char how need to be fix it<br1>";
+	public static String FIXME_EXPLAIN = "This action lets fix the characters in this account. If you can not fix your characters on this way, please must contact any GM/ADM";
+	/**Septiembre 2014**/
+	public static String ACCOUNT_THE_EMAIL_HAS_BEEN_SUCCESFULLY_UPDATED = "The account Email has been successfully updated";
+	public static String ACCOUNT_REGISTER_EXPLAIN_INPUT_EMAIL = "Enter you Email";
+	public static String ACCOUNT_REGISTER_EXPLAIN_INPUT_EMAIL_CODE = "Enter the ID from you Email";
+	public static String ACCOUNT_YOUR_ACCOUNT_IS_ALREADY_ASOCIATED_TO_AN_EMAIL_$email = "Your account is already associated to an email $email";
+	public static String ACCOUNT_BUTTON_SEND_ME_A_VALIDATION_CODE = "Send me a Validation Code";
+	public static String ACCOUNT_BUTTON_CHECK_BUTTON = "Check Code";
+
+	public static String CB_BTN_ANNOUCEMENT = "ANNOUCEMENT";
+	public static String CB_BTN_CHANGE_LOG = "CHANGE LOG";
+	public static String CB_BTN_RULES = "RULES";
+	public static String CB_BTN_STAFF = "STAFF";
+	public static String CB_BTN_TOP_PLAYER = "TOP PLAYER";
+	public static String CB_BTN_HEROES = "HEROES";
+	public static String CB_BTN_CLAN = "CLAN";
+	public static String CB_BTN_CASTLE = "CASTLE";
+	public static String CB_BTN_PRIVATE_STORE = "PRIVATE STORE";
+	public static String CB_BTN_SV_CONFIG = "Sv. CONFIG";
+	public static String CB_BTN_FEATURES = "FEATURES";
+	public static String CB_BTN_EVENTS = "EVENTS";
+	public static String CB_BTN_PLAYGAME = "PLAYGAME";
+	
+	/**Septiembre 2014**/
+	
+	
+	/**Octubre 2014*/
+		public static String DONATION_WINDOWS_THANKS = "En primer lugar muchas gracias por su Donación.<br1> Al Notificar su Donación, recibirá un Email con<br1>los datos aquí Ingresados. Una vez Validado por<br1>el Administrador la Donación, recibirá otro Email<br1>Notificicando la Liberación de sus<br1>Donation Coin.";
+		public static String DONATION_YOU_NEED_EMAIL_REGISTRATION_INPUT_$command = "You need to register your account before using me service. Enter $command to register your account";
+		public static String DONATION_BTN_HOW_CAN_I_MAKE_A_DONATION = "Donation Info";
+		public static String DONATION_BTN_NOTIFY_DONATION = "Notify Donation";
+		public static String DONATION_BTN_REWARD = "Reward";
+		public static String ACCOUNT_REGISTER_EXPLAIN_INPUT_EMAIL_AGAIN = "Enter Your Email Again";
+		public static String ANTIBOT_CHECK_SENT_BY_$name ="Check Sent by $name";
+		public static String ANTIBOT_CHECK_ANWER_THIS_ANSWER = "Answer this Question:<br1>Responde esta pregunta";
+		public static String ANTIBOT_CHECK_ONLY_$minutes_TO_ANSWER = "You have only(solo tienes) $minutes to answer (para responder)";
+		public static String ANTIBOT_ATTEMP_NUMBER_$number = "Attempt number (Número de Intento): $number";
+		public static String ANTIBOT_PUNISHMENT_TIME_$minutes_in_jail = "Punishment if you dont answer correctly or exceeded the estimated time<br1> $minutes_in_jail minutes in jail";
+		public static String ANTIBOT_AND_REMOVE_SOME_ITEM = "and remove some of your item";
+		public static String CLAN_CB_YOU_CAN_NOT_DELETE_THIS_POST = "You can not delete this post";
+		public static String CLAN_CB_YOU_CAN_NOT_POST_REMOVED = "Post Removed";
+		public static String CHANGE_PASS_EXPLAIN = "Change Password";
+	/**Octubre 2014*/
+	public static String DONATION_WINDOWS_INFO = "";
+	public static final String DISABLED_BY_ADMIN = "This option is disabled by Admin";
+}

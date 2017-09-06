@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="dist/libs/bonecp-0.8.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="dist/libs/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="dist/libs/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="dist/libs/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="dist/libs/HikariCP-2.6.0.jar"/>
+	<classpathentry kind="lib" path="dist/libs/java-engine-1.8.jar"/>
+	<classpathentry kind="lib" path="dist/libs/javax.mail-1.5.6.jar"/>
+	<classpathentry kind="lib" path="dist/libs/jython-2.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/libs/jython-engine-2.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/libs/L2J_GeoDriver.jar"/>
+	<classpathentry kind="lib" path="dist/libs/mariadb-java-client-1.5.9.jar"/>
+	<classpathentry kind="lib" path="dist/libs/mmocore.jar"/>
+	<classpathentry kind="lib" path="dist/libs/mockito-all-1.8.4.jar"/>
+	<classpathentry kind="lib" path="dist/libs/mysql-connector-java-6.0.5.jar"/>
+	<classpathentry kind="lib" path="dist/libs/slf4j-api-1.7.23.jar"/>
+	<classpathentry kind="lib" path="dist/libs/slf4j-jdk14-1.7.23.jar"/>
+	<classpathentry kind="lib" path="dist/libs/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="dist/libs/weupnp-0.1.4.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/workspace_MaGa/Actyon_Core/dist/libs/ZeuSNPC.jar" sourcepath="dist/libs/ZeuSNPC.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
