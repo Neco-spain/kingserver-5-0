@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/workspace_MaGa/ZeuS Engine 8 RB Event/lib/l2jserver.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_MaGa/ZeuS Engine 8 RB Event/lib/mmocore.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_MaGa/ZeuS Engine 8 RB Event/lib/mysql-connector-java-6.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
